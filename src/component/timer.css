@@ -1,0 +1,21 @@
+body{
+    background: url(1.jpg);
+    background-size:cover ;
+}
+
+.tim h1{
+    margin-top:60px;
+    font-size:60px;
+}
+
+.tim button{
+    font-size:30px;
+    margin:20px 230px;
+    width:400px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    outline: none;
+    border-radius: 5px;
+
+    
+}
